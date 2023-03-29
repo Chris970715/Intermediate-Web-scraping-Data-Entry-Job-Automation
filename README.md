@@ -13,5 +13,8 @@ Intermediate level) Web scraping for Data Entry Job Automation
 
 
 
+![Untitled video - Made with Clipchamp (5)](https://user-images.githubusercontent.com/39882035/228650030-ec12316c-87e3-4dd8-a3a9-3bf191bddc64.gif)
+
+
 
 
